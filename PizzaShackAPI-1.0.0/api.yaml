@@ -3,7 +3,7 @@ version: v4.0.0
 data:
   id: cf91353b-f594-4b97-a55f-d8dde9d67771
   name: PizzaShackAPI
-  description: Dilruk test.
+  description: Daminda WWWW test.
   context: /pizzashack
   version: 1.0.0
   provider: admin
