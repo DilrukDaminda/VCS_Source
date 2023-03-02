@@ -1,8 +1,0 @@
-deploy:
-  import:
-    preserveOwner: true
-    rotateRevision: false
-    skipKeys: true
-    update: true
-name: DilrukApp1
-owner: admin
