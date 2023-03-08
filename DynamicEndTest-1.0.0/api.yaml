@@ -3,6 +3,7 @@ version: v4.0.0
 data:
   id: 4448d10e-3dcf-4cbc-83fb-e10e0922f811
   name: DynamicEndTest
+  description: This is a simple API for .
   context: /dyntest
   version: 1.0.0
   provider: admin
