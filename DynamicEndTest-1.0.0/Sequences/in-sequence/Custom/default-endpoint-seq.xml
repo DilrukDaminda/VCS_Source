@@ -1,7 +1,0 @@
-<sequence xmlns="http://ws.apache.org/ns/synapse" name="default-endpoint-seq">
-    <property name="service_ep" expression="fn:concat('http://jsonplaceholder.typicode.com/', 'posts/')"/>
-    <header name="To" expression="get-property('service_ep')"/>
-    <log level="custom">
-       <property name="TRACE" value="API Mediation Policy"/>
-    </log>
-</sequence>
